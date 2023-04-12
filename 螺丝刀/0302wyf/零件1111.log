@@ -1,0 +1,30 @@
+Solid Edge 转换到 STL
+日期: 星期四,三月 02,2023 04:03下午
+源文件:C:\Users\DELL\Desktop\零件1111.par
+源系统: SOLID EDGE
+
+硬件:
+处理器: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz
+操作系统: Windows 10 Professional
+已装内存: 15.72 GB
+
+软件信息:
+Parasolid 版本: 34.0.153
+PSBodyshop 版本: 34.0.110
+Solid Edge 版本: 222.00.08.003 x64
+
+STL 导出选项:
+输出文件格式:BINARY
+导出显示零件:关
+structureOption: Monolithic
+导出单位:Inch
+导出公差值:0.050000
+导出公差类型:Custom
+导出曲面平面角度值:0.523599
+
+转换进度:
+正在调取 Parasolid 信息（第 1 阶段，共 2 阶段）...
+正在将 Parasolid 转换为外来数据类型（第 1 阶段，共 2 阶段）...
+创建的 STL 文件数: 1
+转换过程结束
+转换所需时间:00 : 00 : 01
